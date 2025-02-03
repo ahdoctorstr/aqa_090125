@@ -35,3 +35,4 @@ for i in indexes_to_check:
         print(f' {people_records[i][0]} більше, або 30')
     else:
         print(f' {people_records[i][0]} меньше 30')
+#1
