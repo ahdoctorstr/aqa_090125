@@ -100,3 +100,8 @@ print(f"Для подорожі потрібно {int(total_fuel_needed)} літ
 refuels_needed = total_fuel_needed / tank_capacity
 print(f"Якщо перед пригодою бак був пустий, родині потрібно буде заїхати на заправку  {int(refuels_needed)} рази.")
 
+string = 'New text'
+print(string)
+string = string.capitalize()
+print(string)
+
